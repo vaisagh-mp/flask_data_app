@@ -22,7 +22,7 @@ Setup Instructions:
     1. Clone the Repository
     First, clone the repository to your local machine:
 
-    git clone https://github.com/your-username/flask_data_app.git
+    git clone https://github.com/vaisagh-mp/flask_data_app.git
     cd flask_data_app
 
 Set Up a Virtual Environment:
